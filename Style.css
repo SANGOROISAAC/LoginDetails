@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+.body{
+    font-weight: bold;
+    text-align: center;
+
+}
+.form{
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right:20px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
